@@ -9,3 +9,10 @@ Essa será uma aplicação para gerenciar tarefas (em inglês *todo*). Será per
   - Alterar o title e deadline de um *todo* existente;
   - Marcar um *todo* como feito;
   - Excluir um *todo*;
+
+## :camera: Screenshot
+
+<div align="center">
+  <h3 align="center">Testes de usuário e de todos (tarefas)</h3>
+  <img src=".github/test.png" alt="">
+<div>
